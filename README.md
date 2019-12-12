@@ -3,5 +3,5 @@
 
 This code is for demo pratice purposes:
 
-* 'Learn Python'
-* 'Learn Python and manage code with 'GIT'
+* `Learn Python`
+* Learn Python and manage code with `GIT`
